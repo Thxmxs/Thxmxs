@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A software Engineer from Chile</h3>
 
+
+- 💬 I'm 23 years old, I love learning, playing videogames and cycling 🚴‍♂️
+
 - 🌱 I’m currently learning **Azure**
-
-- 💬 About Me: I'm 23 years old, I love learning, playing videogames and cycling 🚴‍♂️
-
-- 📝 this could be of your help [https://www.npmjs.com/package/dinero-a-letras](https://www.npmjs.com/package/dinero-a-letras)
 
 - 👨‍💻 🖤 **I Love coding and technology**
 
-- 📫 How to reach me: **thomas.c.arcos@gmail.com**
+- 📫  **thomas.c.arcos@gmail.com**
+
+- 📝 this could be of your help [https://www.npmjs.com/package/dinero-a-letras](https://www.npmjs.com/package/dinero-a-letras)
 
 
 <h3 align="left">Skills:</h3>
