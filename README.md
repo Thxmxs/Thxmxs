@@ -10,7 +10,7 @@
 
 - 📫  **thomas.c.arcos@gmail.com**
 
-- 📝 this could be of your help [https://www.npmjs.com/package/dinero-a-letras](https://www.npmjs.com/package/dinero-a-letras)
+- 📝 Transformar dinero a palabras [https://www.npmjs.com/package/dinero-a-letras](https://www.npmjs.com/package/dinero-a-letras)
 
 
 <h3 align="left">Skills:</h3>
