@@ -2,11 +2,9 @@
 <h3 align="center">A software Engineer from Chile</h3>
 
 
-- 💬 I'm 23 years old, I love learning, playing videogames and cycling 🚴‍♂️
+- 💬 I'm 24 years old, I love learning, playing videogames and cycling 🚴‍♂️
 
 - 🌱 I’m currently learning **Azure**
-
-- 👨‍💻 🖤 **I Love coding and technology**
 
 - 📫  **thomas.c.arcos@gmail.com**
 
