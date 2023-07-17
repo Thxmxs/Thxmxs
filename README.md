@@ -2,11 +2,9 @@
 <h3 align="center">A software Engineer from Chile</h3>
 
 
-- 💬 I'm 24 years old, I love learning, playing videogames and cycling 🚴‍♂️
+- 💬 I'm 24 years old
 
 - 🌱 I’m currently learning **Azure**
-
-- 📫  **thomas.c.arcos@gmail.com**
 
 - 📝 Transformar dinero a palabras [https://www.npmjs.com/package/dinero-a-letras](https://www.npmjs.com/package/dinero-a-letras)
 
