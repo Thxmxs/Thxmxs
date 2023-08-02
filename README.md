@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">A software Engineer from Chile</h3>
+<h3 align="center">Software Engineer from Chile</h3>
 
 
 - 💬 I'm 24 years old
