@@ -1,13 +1,11 @@
 <h1 align="center">I'm Thomas</h1>
 <h3 align="center">Software Engineer from Chile</h3>
 
-
 - 💬 I'm 24 years old
 
 - 🌱 I’m currently learning **AWS and Swift**
 
 - 📝 Transformar dinero a palabras [https://www.npmjs.com/package/dinero-a-letras](https://www.npmjs.com/package/dinero-a-letras)
-
 
 <h3 align="left">Skills:</h3>
 <p align="left"> 
