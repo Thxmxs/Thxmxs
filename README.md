@@ -4,9 +4,7 @@
 - 💬 I'm 24 years old
 
 - 🌱 I’m currently learning **AWS and Swift**
-
-- 📝 Transformar dinero a palabras [https://www.npmjs.com/package/dinero-a-letras](https://www.npmjs.com/package/dinero-a-letras)
-
+  
 <h3 align="left">Skills:</h3>
 <p align="left"> 
 <a href="https://www.aws.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376356/aws.svg" alt="aws" width="40" height="40"/> </a>
