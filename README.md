@@ -4,7 +4,7 @@
 
 ###
 
- <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjluZjdyaWVqZWo5MG94ODg3MnQ0eTZsMXlkZHN4Z2t3aTluaGszNSZlcD25MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4w0AMZJa2EtG/giphy-downsized.gif"  />
+ <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjluZjdyaWVqZWo5MG94ODg3MnQ0eTZsMXlkZHN4Z2t3aTluaGszNSZlcD25MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4w0AMZJa2EtG/giphy-downsized.gif"  />
 
 ###
 
@@ -26,9 +26,9 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
    <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-    <br/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
+    <br/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="amazon logo"  />
    <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
