@@ -4,7 +4,7 @@
 
 ###
 
- <img align="right" height="150px" width="275px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjluZjdyaWVqZWo5MG94ODg3MnQ0eTZsMXlkZHN4Z2t3aTluaGszNSZlcD25MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4w0AMZJa2EtG/giphy-downsized.gif"  />
+ <img align="right" height="150px" width="275px" src="https://pa1.aminoapps.com/6824/a81f524415d9792536752baec0d49b93407c77ee_hq.gif"  />
 
 ###
 
