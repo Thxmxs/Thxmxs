@@ -4,7 +4,7 @@
 
 ###
 
-
+ <img  height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjluZjdyaWVqZWo5MG94ODg3MnQ0eTZsMXlkZHN4Z2t3aTluaGszNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4w0AMZJa2EtG/giphy-downsized.gif"  />
 
 ###
 
@@ -32,8 +32,6 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="amazon logo"  />
    <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-   <img  height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjluZjdyaWVqZWo5MG94ODg3MnQ0eTZsMXlkZHN4Z2t3aTluaGszNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4w0AMZJa2EtG/giphy-downsized.gif"  />
-
 </div>
 
 
