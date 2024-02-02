@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbno4cHY5NjlnNGp2NDF2cWhkZmdjdGtwZ3MwZm1tcnRpNjJwa2ZleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FWZ1MF7W5sYKZ0Ysho/giphy.gif"  />
+<img align="right" height="150" src="https://giphy.com/gifs/berserk-skeleton-smiling-smile-FWZ1MF7W5sYKZ0Ysho"  />
 
 ###
 
