@@ -2,13 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thxmxs&show_icons=true&theme=radical)
 
-###
-
-<img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjluZjdyaWVqZWo5MG94ODg3MnQ0eTZsMXlkZHN4Z2t3aTluaGszNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4w0AMZJa2EtG/giphy-downsized.gif"  />
-
-###
-
-
 
 <div align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -36,6 +29,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
+###
+
+<img  height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjluZjdyaWVqZWo5MG94ODg3MnQ0eTZsMXlkZHN4Z2t3aTluaGszNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4w0AMZJa2EtG/giphy-downsized.gif"  />
+
+###
+
 
 ###
 
