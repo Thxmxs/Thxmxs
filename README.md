@@ -40,7 +40,8 @@
 
 <div align="left">
   <a href="https://devxel.site/" target="_blank"><img src="https://img.shields.io/static/v1?message=Devxel&logo=discord&label=&color=purple&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Devxel logo"  /></a>
-  <a href="https://tusitioweb.com" target="_blank"><img src="https://thomasc.netlify.app/" height="35" alt="website logo" />
+ <a href="https://tusitioweb.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=0D8ABC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
 </a>
 </div>
 
